@@ -1,6 +1,6 @@
 # numerisation
 
-# Projet pour objectif de numériser toutes les dossiers judiciaires à Madagascar / Inclus l'éléction 
+# Projet pour objectif de numériser toutes les documents judiciaires à Madagascar / Inclus l'éléction 
 
 ___
 
